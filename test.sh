@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mkdir test
-echo "some file content" > /test
+mkdir /test/contect
+echo "some file content" > /test/content
